@@ -1,0 +1,36 @@
+body {
+    background-image: url(./613490994702ffd6becdb50f9ade9478.jpg);
+    background-repeat: no-repeat;
+    color: #000000;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-size: cover;
+    flex-direction: column;
+}
+
+h1{
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+.timer{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+ .time-unit{
+    background-color: rgba(0, 0,0,0.5);
+    padding: 20px;
+    border-radius: 5px;
+ }
+ .time{
+    font-size: 2em;
+    display: block;
+ }
+ .label{
+    font-size: 0.8em;
+    color: #999;
+ }
